@@ -1,0 +1,139 @@
+[Event "Top 10 best chess games of all time!️: Number 10- Gary kasparov 1-0 Veselin Topalov"]
+[Site "https://lichess.org/study/aWqXZzW3/h4oAp96k"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "16:11:10"]
+
+1. e4 { The game starts with the pirc defense. This game was played in 1999 and it is known as Kasparovs immortal game! } (1. c4) 1... d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6! 6. f3 b5 7. Nge2!? Nbd7 8. Bh6 Bxh6 9. Qxh6 Bb7 10. a3! e5 11. O-O-O Qe7 12. Kb1 a6 13. Nc1 O-O-O 14. Nb3 exd4 15. Rxd4 c5 16. Rd1 Nb6 17. g3 Kb8 18. Na5 Ba8 19. Bh3 d5 20. Qf4+ Ka7 21. Rhe1 d4 22. Nd5! Nbxd5 23. exd5 Qd6 24. Rxd4!! cxd4?? (24... Kb6 25. b4 Qxf4 26. Rxf4 Nxd5 27. Rxf7 cxb4 28. axb4 Nxb4 29. Nb3 $15) 25. Re7+! { This is a double rook sacrifice but blacks king is weak. How does kasparov make the most out of the situation? } 25... Kb6 (25... Qxe7 26. Qxd4+ Kb8 27. Qb6+ Bb7 28. Nc6+ Ka8 29. Qa7#) 26. Qxd4+ Kxa5 27. b4+ Ka4 28. Qc3! { Threatening mate on b3 } 28... Qxd5 29. Ra7 Bb7 30. Rxb7! Qc4 31. Qxf6 Kxa3 32. Qxa6+ Kxb4 33. c3+!! Kxc3 34. Qa1+ Kd2 35. Qb2+ Kd1 36. Bf1!! { Only winning move! } 36... Rd2 (36... Qxf1 37. Qc2+ Ke1 38. Re7+) 37. Rd7!! Rxd7 38. Bxc4 bxc4 39. Qxh8 Rd3 $18 40. Qa8 c3 41. Qa4+ Ke1 42. f4 f5 43. Kc1 Rd2 44. Qa7 { Kasparov, Garry - Topalov, Veselin, 1-0, Hoogovens, 1999, https://lichess.org/9gFZXLl5 } *
+
+
+[Event "Top 10 best chess games of all time!️: Number 9- Magnus Carlsen 1-0 Geir Sune Tallaksen Ostmoe"]
+[Site "https://lichess.org/study/aWqXZzW3/9q1oPU54"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Quiet Line"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "16:44:43"]
+
+{ This was a young Magnus only rated 2500 but still, one of his best games for sure }
+1. Nf3 (1. c4) 1... Nf6 2. c4 e6 3. d4 b6 4. g3 Ba6 5. b3 b5?! { This is supposed to be theory but not great theory now a days } 6. cxb5 Bxb5 7. Bg2 d5 8. O-O Nbd7 9. Nc3 Ba6 10. Re1 Bd6 11. Bb2 O-O 12. e4 Nxe4 13. Nxe4 dxe4 14. Rxe4 Bb7 15. Rh4 Be7 16. Rh3?! Nf6 17. Qe2 Bd5 18. Re1 $17 Qb8? (18... a5 { The idea of this move is to imbalance whites pawn structure on the Queenside }) 19. Ne5 Qb7 20. Bxd5 Qxd5 21. Qc2 c5 22. Ng4! h6?? 23. Re5 Qf3 24. Nxh6+!! gxh6 25. Rxh6 Kg7 26. Rg5+! Kxh6 27. Bc1!! cxd4 28. Rg4+ Qe3 29. Rh4+! Nh5 30. Rxh5+ Kxh5 31. Qh7+! Kg4 32. fxe3 Rac8 33. Kg2!! Rxc1 34. h3+ Kg5 35. Qg7+ Kf5 36. g4+ Ke4 37. Qxd4# { Carlsen, Magnus - Tallaksen, Geir Sune, 1-0, NOR-ch, 2005, https://lichess.org/XE0txR6A } *
+
+
+[Event "Top 10 best chess games of all time!️: Number 8- Mikhail Tal 1-0 NN"]
+[Site "https://lichess.org/study/aWqXZzW3/5q2KSBoO"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B96"]
+[Opening "Sicilian Defense: Najdorf Variation, Polugaevsky Variation, Simagin Line"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "16:54:16"]
+
+{ This is a one of many beautifull games from Mikhail Tal played in 1953 }
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5?! 8. e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Nxe6!? fxe6 13. Qg4 Qb6?? 14. Rd6!! Bxd6 15. Qxe6+ Kf8 16. Bc4!! bxc4 17. Rf1+ Nf6 18. Rxf6+!! gxf6 19. Bh6# *
+
+
+[Event "Top 10 best chess games of all time!️: Number 7- Levon Aronian 0-1 vishi Anand"]
+[Site "https://lichess.org/study/aWqXZzW3/KPhM0Pvs"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D47"]
+[Opening "Semi-Slav Defense: Meran Variation"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:01:27"]
+
+{ This is another crushing short game with super deep sacrifices played in 2007 }
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bd6 9. O-O O-O 10. Qc2 Bb7 11. a3 Rc8 12. Ng5 c5! 13. Nxh7 Ng4! 14. f4?! (14. h3 Bh2+ 15. Kh1 Qh4 16. d5) 14... cxd4 15. exd4 Bc5!! { Beautiful romantic sacrifice dear brothers and sisters! } 16. Be2?? (16. dxc5 Nxc5 17. Nxf8 Nxd3 18. h3 Qd4+ 19. Kh1 Ndf2+ 20. Rxf2 Nxf2+ 21. Kh2 { This is the only reasonable defense }) 16... Nde5!! 17. Bxg4 (17. fxe5 Qxd4+ 18. Kh1 Qg1+!! 19. Rxg1 Nf2#) 17... Bxd4+ 18. Kh1 Nxg4 19. Nxf8 f5! 20. Ng6 Qf6 21. h3 Qxg6 22. Qe2 Qh5 23. Qd3 Be3! { Aronian, Levon - Anand, Viswanathan, 0-1, Tata Steel-A 75th, 2013, https://lichess.org/IHRez3l8 } *
+
+
+[Event "Top 10 best chess games of all time!️: Number 6- Mikhail Tal 1-0 Anatoly Karpov"]
+[Site "https://lichess.org/study/aWqXZzW3/G8hQ3Ebz"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:12:28"]
+
+{ Another brilliant game for mikhail Tal in 1987 }
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nxc3 7. bxc3 g6 8. d4 Bg7 9. Bd3 O-O 10. O-O Nc6 11. Re1 Re8?! 12. Bg5?! Be6? 13. Rxe6!! fxe6 14. Bc4 Qd6 15. Qe2 Nd8 16. Re1 Rc8 17. Nd2 Kh8 18. Ne4 Qc7 19. Bb3 e5 20. h4 exd4 21. h5 gxh5 22. Qxh5?? (22. Nf6!! Rf8 23. Nxh7) 22... Rf8!! 23. Bc2 Qe5 24. Ng3 Qxe1+ 25. Kh2 h6 (25... Bh6!! { This is a crazy move that karpov missed! } 26. Qxh6 (26. Bxh6! Rf7!! 27. Bxh7 Rc6!! { These are all only moves } 28. Bd3 Rxh6! 29. Qxh6+ Kg8 30. Qg6+ Kf8! 31. Qh6+ Kg8)) 26. Bxh6 Kg8 27. Bxg7 Rxf2 28. Qh7+ Kf7 29. Qg6+ Kg8 30. Bh6+ { Tal, Mihail - Karpov, Anatoly, 1-0, SWIFT-Chess World Championship, 1987, https://lichess.org/ZAAC6l6i } *
+
+
+[Event "Top 10 best chess games of all time!️: Number 5- Veselin Topalov 0-1 Alexei Shirov"]
+[Site "https://lichess.org/study/aWqXZzW3/bDMNPXJu"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:21:05"]
+
+{ It was played in 1998 and includes one of the most insane moves ever! }
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8. Ba4 O-O 9. Ne2 Nd7 10. O-O e5 11. f3 Qe7 12. Be3 Rd8 13. Qc2 Nb6 14. Bb3 Be6 15. Rad1 Nc4 16. Bc1 b5 17. f4 exd4 18. Nxd4 Bg4 19. Rde1 Qc5 20. Kh1 a5 21. h3?! (21. a4!) 21... Bd7?! 22. a4! bxa4 23. Ba2 Be8? 24. e5 Nb6 25. f5 Nd5 26. Bd2?? (26. Rf3! { Black is actually lost in this position! }) 26... Nb4! 27. Qxa4 Nxa2 28. Qxa2 Bxe5 29. fxg6 hxg6 30. Bg5 Rd5 31. Re3 Qd6 32. Qe2 Bd7 33. c4 Bxd4 34. cxd5 Bxe3 35. Qxe3 Re8 36. Qc3 Qxd5 37. Bh6 Re5 38. Rf3 Qc5 39. Qa1 Bf5 40. Re3 f6 41. Rxe5 Qxe5 42. Qa2+ Qd5 43. Qxd5+ cxd5 44. Bd2 a4 45. Bc3 Kf7 46. h4 Ke6 47. Kg1 Bh3!! { Might be the best endgame move of all time } 48. gxh3 Kf5 49. Kf2 Ke4 50. Bxf6 d4 51. Be7 Kd3 52. Bc5 Kc4 53. Be7 Kb3 { Topalov, Veselin - Shirov, Alexei, 0-1, Linares 15th, 1998, https://lichess.org/jGpqLI0o } *
+
+
+[Event "Top 10 best chess games of all time!️: Number 4- Donald bryne 0-1 Robert James fisher"]
+[Site "https://lichess.org/study/aWqXZzW3/ac29oGYN"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:30:23"]
+
+{ Fisher was just 13 at the time and I chose this game because of how difficult it is to see this at that age! }
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. Bf4 d5 6. Qb3 dxc4 7. Qxc4 c6 8. e4 { This is another grunfeld } 8... Nbd7?! 9. Rd1 Nb6 10. Qc5?! Bg4 11. Bg5?? Na4!! { This is only the start } 12. Qa3 (12. Nxa4 Nxe4 13. Bxe7 Qc7 14. Qa3 Rfe8) 12... Nxc3 13. bxc3 Nxe4 14. Bxe7 Qb6 15. Bc4 (15. Bxf8 Bxf8 { Blacks peaces are super active }) 15... Nxc3!! 16. Bc5 Rfe8+ 17. Kf1 Be6!! 18. Bxb6 (18. Qxc3 Qxc5 19. dxc5 Bxc3 20. Bxe6 Rxe6 $19) 18... Bxc4+ 19. Kg1 Ne2+ 20. Kf1 Nxd4+ 21. Kg1 Ne2+ 22. Kf1 Nc3+ 23. Kg1 axb6 24. Qb4 Ra4 25. Qxb6 Nxd1 26. h3 Rxa2 27. Kh2 Nxf2 28. Re1 Rxe1 29. Qd8+ Bf8 30. Nxe1 Bd5 31. Nf3 Ne4 32. Qb8 b5 33. h4 h5 34. Ne5 Kg7 35. Kg1 Bc5+ 36. Kf1 Ng3+ 37. Ke1 Bb4+ 38. Kd1 Bb3+ 39. Kc1 Ne2+ 40. Kb1 Nc3+ 41. Kc1 Rc2# *
+
+
+[Event "Top 10 best chess games of all time!️: Number 3- Georg Rotlewi 0-1 Akiba Rubinstein"]
+[Site "https://lichess.org/study/aWqXZzW3/4cIHFBcZ"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Symmetrical Variation"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:42:29"]
+
+{ This is another beautifully played game with some unbelievable sacrifices }
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. c4 Nc6 5. Nc3 Nf6 6. dxc5 Bxc5 7. a3 a6 8. b4 Bd6 9. Bb2 O-O 10. Qd2 Qe7 11. Bd3? dxc4 12. Bxc4 b5 13. Bd3 Rd8 14. Qe2 Bb7 15. O-O Ne5 16. Nxe5 Bxe5 17. f4 Bc7 18. e4 Rac8 19. e5?? Bb6+ 20. Kh1 Ng4 21. Be4 Qh4 22. g3 Rxc3!! 23. gxh4 (23. Bxc3 Bxe4+) 23... Rd2! 24. Qxd2 Bxe4+ 25. Qg2 Rh3! 26. Rf2 Rxh2+ 27. Kg1 Bxf2+ 28. Kf1 Bd3# *
+
+
+[Event "Top 10 best chess games of all time!️: Number 2- Paul morphy 1-0 French people"]
+[Site "https://lichess.org/study/aWqXZzW3/AkHLggq5"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:49:03"]
+
+{ This is the most famous chess game of all time and I ranked number 2 because the sacrifices weren't all that complicated }
+1. e4 e5 2. Nf3 d6 3. d4 Bg4? 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qe7 8. Nc3 c6 9. Bg5 b5 10. Nxb5 cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 13. Rxd7 Rxd7 14. Rd1 Qe6 15. Bxd7+ Nxd7 16. Qb8+!! Nxb8 17. Rd8# *
+
+
+[Event "Top 10 best chess games of all time!️: Number 1- Stefan Levitsky 0-1 Frank marshall"]
+[Site "https://lichess.org/study/aWqXZzW3/uwyBgFch"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C10"]
+[Opening "Sicilian Defense: Marshall Gambit"]
+[Annotator "https://lichess.org/@/sazhiK"]
+[UTCDate "2024.02.16"]
+[UTCTime "17:57:00"]
+
+{ Finally number 1... }
+1. d4 e6 2. e4 d5 3. Nc3 c5? 4. Nf3? { In those times they didn't know how to punish that } 4... Nc6 5. exd5 exd5 6. Be2 Nf6 7. O-O Be7 8. Bg5 O-O 9. dxc5 Be6 10. Nd4 Bxc5 11. Nxe6 fxe6 12. Bg4 Qd6 13. Bh3 Rae8 14. Qd2 Bb4 15. Bxf6 Rxf6 16. Rad1 Qc5 17. Qe2 Bxc3 18. bxc3 Qxc3 19. Rxd5! Nd4 20. Qh5?? Ref8! 21. Re5 Rh6 22. Qg5 Rxh3 23. Rc5 Qg3!! { Wow } 24. Qxg3 (24. fxg3 Ne2+ 25. Kh1 Rxf1#) (24. hxg3 Ne2#) 24... Ne2+ 25. Kh1 Nxg3+ 26. Kg1 Nxf1 27. gxh3 Nd2 *
+
+
