@@ -21,7 +21,7 @@ def pgn_to_spoken_language(pgn_text):
             continue
 
         # Handle annotations
-        move = move.replace('??', ' dubious').replace('?!', ' question mark')
+        move = move.replace('??', '').replace('?!', '')
         move = move.replace('+', ' check').replace('#', ' checkmate')
         
         if 'x' in move:
@@ -30,7 +30,7 @@ def pgn_to_spoken_language(pgn_text):
         spoken_move = color
 
         # Handle exclamations
-        move = move.replace('!!', ' double exclam').replace('!', ' exclam')
+        move = move.replace('!!', '').replace('!', ' ')
 
         if move.startswith(('O-O', '0-0')):
             spoken_move += " castles"
@@ -58,12 +58,7 @@ def pgn_to_spoken_language(pgn_text):
 
 # Example PGN (shortened for brevity)
 pgn_text = """
-1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6! 6. f3 b5 
-7. Nge2!? Nbd7 8. Bh6 Bxh6 9. Qxh6 Bb7 10. a3! e5 11. O-O-O Qe7 
-12. Kb1 a6 13. Nc1 O-O-O 14. Nb3 exd4 15. Rxd4 c5 16. Rd1 Nb6 
-24. Rxd4!! cxd4?? 25. Re7+! Kb6 
-38. Bxc4 bxc4 39. Qxh8 Rd3 $18 40. Qa8 c3 
-41. Qa4+ Ke1 42. f4 f5 43. Kc1 Rd2 44. Qa7 *
+1. e4 { The game starts with the pirc defense. This game was played in 1999 and it is known as Kasparovs immortal game! } (1. c4) 1... d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6! 6. f3 b5 7. Nge2!? Nbd7 8. Bh6 Bxh6 9. Qxh6 Bb7 10. a3! e5 11. O-O-O Qe7 12. Kb1 a6 13. Nc1 O-O-O 14. Nb3 exd4 15. Rxd4 c5 16. Rd1 Nb6 17. g3 Kb8 18. Na5 Ba8 19. Bh3 d5 20. Qf4+ Ka7 21. Rhe1 d4 22. Nd5! Nbxd5 23. exd5 Qd6 24. Rxd4!! cxd4?? (24... Kb6 25. b4 Qxf4 26. Rxf4 Nxd5 27. Rxf7 cxb4 28. axb4 Nxb4 29. Nb3) 25. Re7+! { This is a double rook sacrifice but blacks king is weak. How does kasparov make the most out of the situation? } 25... Kb6 (25... Qxe7 26. Qxd4+ Kb8 27. Qb6+ Bb7 28. Nc6+ Ka8 29. Qa7#) 26. Qxd4+ Kxa5 27. b4+ Ka4 28. Qc3! { Threatening mate on b3 } 28... Qxd5 29. Ra7 Bb7 30. Rxb7! Qc4 31. Qxf6 Kxa3 32. Qxa6+ Kxb4 33. c3+!! Kxc3 34. Qa1+ Kd2 35. Qb2+ Kd1 36. Bf1!! { Only winning move! } 36... Rd2 (36... Qxf1 37. Qc2+ Ke1 38. Re7+) 37. Rd7!! Rxd7 38. Bxc4 bxc4 39. Qxh8 Rd3 40. Qa8 c3 41. Qa4+ Ke1 42. f4 f5 43. Kc1 Rd2 44. Qa7 { Kasparov, Garry - Topalov, Veselin, 1-0, Hoogovens, 1999, https://lichess.org/9gFZXLl5 } *
 """
 
 # Convert PGN to spoken language
@@ -71,5 +66,5 @@ spoken_moves = pgn_to_spoken_language(pgn_text)
 
 # Output the spoken language format
 for move in spoken_moves:
-    print(move)
-    print('<break time="3s" />')
+    print(move, '...')
+    # print('<break time="3s" />')
